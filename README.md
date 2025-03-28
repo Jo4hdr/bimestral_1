@@ -30,5 +30,8 @@
  # Timing
  - El timing es el tiempo que hay entre las rondas de planetas.
 
-# spawm
+# Spawm
 - Es la zona es la cual un objeto aparece, se define por dos datos el eje "y" y el eje "x".
+
+# Diagrama de flujo
+![diagramadeflujo](diagrama.png)
